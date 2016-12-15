@@ -1,7 +1,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <?php
 $db_server = "localhost:3307";
-//資料庫名稱
+//資料庫的名稱
 $db_name = "test";
 //資料庫管理者帳號
 $db_user = "root";
